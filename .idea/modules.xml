@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../saucedemo/.idea/myproject.iml" filepath="$PROJECT_DIR$/../saucedemo/.idea/myproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pdf.pdf.pdf.iml" filepath="$PROJECT_DIR$/.idea/pdf.pdf.pdf.iml" />
+    </modules>
+  </component>
+</project>
