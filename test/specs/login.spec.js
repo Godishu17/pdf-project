@@ -11,6 +11,8 @@ describe('Login', () => {
 
         await LoginPage.signInBtn.click()
 
+        await browser.pause(5000)
+
     })
 
 })
