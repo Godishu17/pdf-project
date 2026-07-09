@@ -6,7 +6,7 @@ const TOKEN = process.env.TOKEN;
 const CHAT_ID = process.env.CHAT_ID;
 
 async function sendToTelegram() {
-    const reportUrl = 'https://godishu17.github.io/wdio-saucedemo/';
+    const reportUrl = 'https://godishu17.github.io/pdf-project/';
 
     const message = `
  *Тесты WebdriverIO завершены!*
