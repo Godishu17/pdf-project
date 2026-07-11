@@ -11,6 +11,10 @@ class LoginPage {
     get signInBtn() {
         return $('button[type="submit"]')
     }
+
+    get projectE2E() {
+        return $('//span[text()="E2E"]')
+    }
 }
 
 export default new LoginPage()
