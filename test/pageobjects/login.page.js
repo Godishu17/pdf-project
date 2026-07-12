@@ -13,7 +13,7 @@ class LoginPage {
     }
 
     get projectE2E() {
-        return $('//p[text()="E2E"]')
+        return $('//span[text()="E2E"]')
     }
 }
 
