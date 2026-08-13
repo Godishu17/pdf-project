@@ -15,6 +15,11 @@ class LoginPage {
     get projectE2E() {
         return $('//span[text()="E2E"]')
     }
+
+    get submittedStatus() {
+        return $('//span[text()="Submitted"]')
+    }
+
 }
 
 export default new LoginPage()

@@ -6,7 +6,7 @@ describe('Login', () => {
 
         await browser.url('https://app.production.ae/sign-in')
 
-        await LoginPage.emailInput.setValue('demo-owner@acw.solutions')
+        await LoginPage.emailInput.setValue('demo-reviewer@acw.solutions')
         await LoginPage.passwordInput.setValue('Passw0rd!')
 
         await LoginPage.signInBtn.click()
