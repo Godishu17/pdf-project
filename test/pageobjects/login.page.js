@@ -16,9 +16,8 @@ class LoginPage {
         return $('//span[text()="E2E"]')
     }
 
-    get submittedStatus() {
-        return $('//span[text()="Submitted"]')
-    }
+    get logout
+
 
 }
 
