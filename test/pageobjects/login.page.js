@@ -16,7 +16,7 @@ class LoginPage {
         return $('//span[text()="E2E"]')
     }
 
-    get logout
+
 
 
 }
